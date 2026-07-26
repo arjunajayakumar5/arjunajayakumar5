@@ -1,6 +1,6 @@
 # Hi, I'm Arjun A! 👋
 
-### MCA Student | AI & Machine Learning Enthusiast | Python & Full-Stack Developer
+### MCA Graduate | AI & Machine Learning Enthusiast | Python & Full-Stack Developer
 
 --- 
 
