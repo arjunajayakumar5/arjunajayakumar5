@@ -33,8 +33,8 @@ Here are some highlights from my project portfolio:
 ## 📫 Get in Touch
 
 - **Email**: arjunajayakumar5@gmail.com
-- **LinkedIn**: [Link to your LinkedIn profile (Please provide this if you'd like it included)]
-- **GitHub**: [https://github.com/arjunajayakumar5](https://github.com/arjunajayakumar5)
+- **LinkedIn**: www.linkedin.com/in/arjun-ajayakumar-b34660309
+- **GitHub**: [https:/)]/github.com/arjunajayakumar5](https://github.com/arjunajayakumar5)
 
 --- 
 
